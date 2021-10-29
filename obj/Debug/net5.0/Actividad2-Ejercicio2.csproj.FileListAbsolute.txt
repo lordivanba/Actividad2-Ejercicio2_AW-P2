@@ -1,0 +1,58 @@
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\appsettings.json
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.exe
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.deps.json
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.runtimeconfig.json
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.runtimeconfig.dev.json
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.dll
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\ref\Actividad2-Ejercicio2.dll
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.pdb
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.AssemblyInfo.cs
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\staticwebassets\Actividad2-Ejercicio2.StaticWebAssets.Manifest.cache
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\staticwebassets\Actividad2-Ejercicio2.StaticWebAssets.xml
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\scopedcss\bundle\Actividad2-Ejercicio2.styles.css
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.RazorTargetAssemblyInfo.cache
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.csproj.CopyComplete
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.dll
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\ref\Actividad2-Ejercicio2.dll
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.pdb
+C:\Users\viern\OneDrive\Escritorio\Actividad2-Ejercicio2_P2-master (1)\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.genruntimeconfig.cache
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\appsettings.json
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.exe
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.deps.json
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.runtimeconfig.json
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.runtimeconfig.dev.json
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.dll
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\ref\Actividad2-Ejercicio2.dll
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Actividad2-Ejercicio2.pdb
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.AssemblyInfo.cs
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\staticwebassets\Actividad2-Ejercicio2.StaticWebAssets.Manifest.cache
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\staticwebassets\Actividad2-Ejercicio2.StaticWebAssets.xml
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\scopedcss\bundle\Actividad2-Ejercicio2.styles.css
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.RazorTargetAssemblyInfo.cache
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.csproj.CopyComplete
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.dll
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\ref\Actividad2-Ejercicio2.dll
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.pdb
+C:\Users\viern\OneDrive\Escritorio\hola\Actividad2-Ejercicio2_P2-master\obj\Debug\net5.0\Actividad2-Ejercicio2.genruntimeconfig.cache
